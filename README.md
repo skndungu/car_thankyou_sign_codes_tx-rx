@@ -19,7 +19,7 @@ Here is the Procedure to use while burning the device bootloader as well us uplo
   <h3> Note: 
  DO THIS ON A WINDOWS OPERATING SYSTEM!!!
   </h3>
-1) To do this you will need an older version of the arduino particularly version 1.6.9 find it here :link: [Old SoftwareReleases Arduino IDE](https://www.arduino.cc/en/main/OldSoftwareReleases) 
+1) To do this you will need an older version of the arduino particularly version 1.6.9 find it here [Old SoftwareReleases](https://www.arduino.cc/en/main/OldSoftwareReleases) 
 2) Once you have it setup to burn the bootloader follow this tutotial :link: [Burning Arduino Bootloader](https://www.youtube.com/watch?v=Kh4iZb2YTT8&t=337s) 
 
 # Uploading the codes  :arrow_up:
