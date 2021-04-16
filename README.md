@@ -1,7 +1,7 @@
-# CAR THANK YOU SIGN CODES (tx & rx)
+## CAR THANK YOU SIGN CODES (tx & rx)
 
-# PROGRAM LOAD GUIDE :hammer:
-# Burn Device bootloader and Upload the Codes 
+### PROGRAM LOAD GUIDE :hammer:
+#### Burn Device bootloader and Upload the Codes 
 Here is the Procedure to use while burning the device bootloader as well us uploading the codes
 # IDE Installation :white_check_mark:
 1) To download the ide used for this program find the IDE from here :link: [Arduino IDE](https://www.arduino.cc/en/software) 
