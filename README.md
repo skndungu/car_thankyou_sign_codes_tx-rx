@@ -7,22 +7,22 @@ Here is the Procedure to use while burning the device bootloader as well us uplo
 1) To download the ide used for this program find the IDE from here :link: [Arduino IDE](https://www.arduino.cc/en/software) 
 2) Once you have downloaded the program proceed to the next step
 
-# Download the Files :arrow_down_small:
+### Download the Files :arrow_down_small:
 3) From this repo click on the download option at the code :arrow_double_down: 
 4) From the master you will find three files, code is on the file :file_folder: "images" and the "libraries" stethoscope_sterilizer_mcu_test" stethoscope_sterlizer_mcu_test"
 
-# Library Installation
+### Library Installation
 5) Copy from the library folder in the folder "FastLED" to your documents -> arduino -> libraries once you complete you are done with the initial software preparations 
 6) To familiarise yourself with the IDE use this tutorial :high_brightness: :link: [Tutorial](https://www.youtube.com/watch?v=nL34zDTPkcs&t=3s) 
 
-# Burning bootload to the MCU :fire:
+### Burning bootload to the MCU :fire:
   <h3> Note: 
  DO THIS ON A WINDOWS OPERATING SYSTEM!!!
   </h3>
 1) To do this you will need an older version of the arduino particularly version 1.6.9 find it here [Old SoftwareReleases](https://www.arduino.cc/en/main/OldSoftwareReleases) 
 2) Once you have it setup to burn the bootloader follow this tutotial :link: [Burning Arduino Bootloader](https://www.youtube.com/watch?v=Kh4iZb2YTT8&t=337s) 
 
-# Uploading the codes  :arrow_up:
+### Uploading the codes  :arrow_up:
 
 You can buy the USBASP from here :link: [buy usbasp](https://aliexpress.ru/af/USBASP-USBISP-AVR-Programmer-USB.html?catId=0&d=y&aff_platform=portals-tool&initiative_id=SB_20201020044645&origin=n&sk=_9JHld5&aff_trace_key=4b1704d992da43b586041dfb7cd31d7e-1606574782769-00350-_9JHld5&SearchText=USBASP%2BUSBISP%2BAVR%2BProgrammer%2BUSB&terminal_id=351d58321dfa473cb106b58978d7c19c)
 or here 
