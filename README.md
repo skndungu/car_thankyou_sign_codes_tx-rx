@@ -3,16 +3,16 @@
 ### PROGRAM LOAD GUIDE :hammer:
 #### Burn Device bootloader and Upload the Codes 
 Here is the Procedure to use while burning the device bootloader as well us uploading the codes
-# IDE Installation :white_check_mark:
+## IDE Installation :white_check_mark:
 1) To download the ide used for this program find the IDE from here :link: [Arduino IDE](https://www.arduino.cc/en/software) 
 2) Once you have downloaded the program proceed to the next step
 
 ### Download the Files :arrow_down_small:
 3) From this repo click on the download option at the code :arrow_double_down: 
-4) From the master you will find three files, code is on the file :file_folder: "images" and the "libraries" stethoscope_sterilizer_mcu_test" stethoscope_sterlizer_mcu_test"
+4) From the master you will find two files, code is on the file :file_folder: "car_thankyou_sign_receiver" and the "car_thankyou_sign_transmitter" there is also a zipped file on both of this folder with "libraries"
 
 ### Library Installation
-5) Copy from the library folder in the folder "FastLED" to your documents -> arduino -> libraries once you complete you are done with the initial software preparations 
+5) Copy from the library folder in the folder "FastLED" and "LoRa-0.3.0" to your documents -> arduino -> libraries once you complete you are done with the initial software preparations 
 6) To familiarise yourself with the IDE use this tutorial :high_brightness: :link: [Tutorial](https://www.youtube.com/watch?v=nL34zDTPkcs&t=3s) 
 
 ### Burning bootload to the MCU :fire:
